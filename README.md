@@ -1,1 +1,1 @@
-# Arta JavaScript development environment
+# Arta | JavaScript Development Environment
