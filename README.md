@@ -1,1 +1,1 @@
-# ArtaCore
+# Arta JavaScript development environment
