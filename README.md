@@ -1,1 +1,1 @@
-# AIT-Js-Dev-Env
+# ArtaCore
